@@ -5,6 +5,12 @@ A modern **Full Stack Task Manager Application** built using a **React-based fro
 This repository follows a **branch-based structure**, keeping frontend and backend code separate for better maintainability and clarity.
 
 ---
+## Demo Video
+
+
+https://github.com/user-attachments/assets/af964989-25d0-40f6-9f7a-b2dde9bd2e17
+
+
 
 ## 📌 Project Overview
 
